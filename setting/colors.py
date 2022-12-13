@@ -1,0 +1,6 @@
+WHITE = "#FFFFFF"
+BLACK = "#000000"
+GRAY = "#999999"
+RED = "#FF0000"
+LIGHT_GRAY = "#d0d0d0"
+LIGHTER_GRAY = "#ededed"
